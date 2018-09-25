@@ -6347,6 +6347,11 @@
 				"longitude": -99.619672,
 				"title": "Robert Bosch Toluca Plant"
 			},{
+				"body": "\r\n\r\n\r\n\r\n<h3>Robert Bosch, S. de R.L. de C.V.</h3>\r\n<p>Robert Bosch - Mexicali <br>Blvd. Abelardo L.Rodríguez # 148 Col.<br> Alamitos <br> C.P. 212210 Mexicali, Baja California <br>Norte <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"latitude": 32.66743,
+				"longitude": -115.393786,
+				"title": "Robert Bosch Mexicali"
+			},{
 				"body": "\r\n\r\n\r\n\r\n<h3>Robert Bosch, S. de R.L. de C.V.</h3>\r\n<p>Robert Bosch - Alvaro Obregon <br> Circuito G. González Camarena # 333 <br> Colonia Centro de Ciudad Santa Fe <br> C.P.01210 México DF <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 19.367864,
 				"longitude": -99.262316,
@@ -6382,10 +6387,20 @@
 				"longitude": -82.6064682006836,
 				"title": "Robert Bosch LLC - Anderson Plant"
 			}, {
-				"body": "\r\n\r\n\r\n\r\n<h3 >Robert Bosch, Sistemas Automotrices, S.A. de C.V.</h3>\r\n<p>Prolongacion Hermanos Escobar # 6965, Parque Industrial Omega, C.P. 32320, Juarez, Chihuahua, Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
-				"latitude": 31.751331329345703,
-				"longitude": -106.43767547607422,
-				"title": "Robert Bosch, Sistemas Automotrices, S.A. de C.V."
+				"body": "\r\n\r\n\r\n\r\n<h3 >Robert Bosch - Calle Hornos </h3>\r\n<p>Calle Hornos #5051, Parque Industrial <br> Juarez <br> CP 32630 Ciudad Juárez, Chihuahua <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"latitude": 31.697456,
+				"longitude": -106.450715,
+				"title": "Robert Bosch"
+			},{
+				"body": "\r\n\r\n\r\n\r\n<h3 >Robert Bosch - Calle Magneto</h3>\r\n<p>Calle Magneto #2035, Parque  <br> industrial Fernandez <br>  CP 32630 Ciudad Juárez, Chihuahua <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"latitude": 31.691329,
+				"longitude": -106.45775,
+				"title": "Robert Bosch"
+			},{
+				"body": "\r\n\r\n\r\n\r\n<h3 >Robert Bosch - Av. Robert Bosch</h3>\r\n<p>Av. Robert Bosch #1150, Parque Ind. <br> Rio Bravo. <br> C.P. 32557 Ciudad Juárez, Chihuahua <br> Mexico </p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"latitude": 31.658445,
+				"longitude": -106.339165,
+				"title": "Robert Bosch"
 			}, {
 				"body": "\r\n\r\n\r\n\r\n<h3 >Robert Bosch Fuel Systems, LLC</h3>\r\n<p>4700 South Broadmoor, Suite 100, Kentwood, Michigan 49512, USA</p>\r\n<p><a href=\"http://www.boschusa.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.boschusa.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.87873840332031,
