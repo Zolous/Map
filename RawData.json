@@ -6327,15 +6327,30 @@
 	"A080": {
 		"Company": "Robert Bosch GmbH",
 		"Locations": [{
-				"body": "\r\n\r\n\r\n\r\n<h3 >Automotive Lighting Rear Lamps Mexico S. de R.L. de C.V.</h3>\r\n<p>Av. De La Industria No. 21, Fracc. Industrial el Trebol, Tepotzotlan Edo de Mexico, C.P. 54600</p>\r\n<p><a href=\"http://www.al-lighting.com/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.al-lighting.com/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
-				"latitude": 19.72376823425293,
-				"longitude": -99.20516967773438,
-				"title": "Automotive Lighting Rear Lamps Mexico S. de R.L. de C.V."
-			}, {
-				"body": "\r\n\r\n\r\n\r\n<h3>Robert Bosch, S. de R.L. de C.V.</h3>\r\n<p>Robert Bosch # 405, Zona Industrial Toluca, C.P. 50070</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
-				"latitude": 21.967214584350586,
-				"longitude": -102.28570556640625,
-				"title": "Robert Bosch, S. de R.L. de C.V."
+				"body": "\r\n\r\n\r\n\r\n<h3 >Robert Bosch, S. de R.L. de C.V.</h3>\r\n<p>Robert Bosch - San Martín Obispo <br> Av. Tejocotes, Parque Industrial San <br> Martín Obispo <br> C.P. 54769 Cuautitlán Izcalli Edo. Méx <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"latitude": 19.608740,
+				"longitude": -99.227733,
+				"title": "Robert Bosch San Martín Obispo"
+			},{
+				"body": "\r\n\r\n\r\n\r\n<h3 >Robert Bosch, S. de R.L. de C.V.</h3>\r\n<p>Robert Bosch - Cuautitlán Izcalli - Rexroth México <br> Av. Tejocotes y camino viejo a la <br> Lumbrera S/N Lt. 2, Col. San Martin  <br> Obispo <br> 54769 Cuautitlán Izcalli, Edo. Méx <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"latitude": 19.607696,
+				"longitude": -99.225745,
+				"title": "Robert Bosch Cuautitlán Izcalli"
+			},{
+				"body": "\r\n\r\n\r\n\r\n<h3>Robert Bosch, S. de R.L. de C.V.</h3>\r\n<p>Robert Bosch - Hermosillo <br> Boulevard Antonio Quiroga #107 Col. <br> Vista Bella <br> C.P. 83174 Hermosillo, Sonora <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"latitude": 29.105954,
+				"longitude": -111.022480,
+				"title": "Bosch Security Systems"
+			},{
+				"body": "\r\n\r\n\r\n\r\n<h3>Robert Bosch, S. de R.L. de C.V.</h3>\r\n<p>Robert Bosch - Toluca <br> Robert Bosch # 405 Zona Industrial  <br> Toluca <br> CC.P. 50070 Estado de México <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"latitude": 19.292931,
+				"longitude": -99.619672,
+				"title": "Robert Bosch Toluca Plant"
+			},{
+				"body": "\r\n\r\n\r\n\r\n<h3>Robert Bosch, S. de R.L. de C.V.</h3>\r\n<p>Robert Bosch - Alvaro Obregon <br> Circuito G. González Camarena # 333 <br> Colonia Centro de Ciudad Santa Fe <br> C.P.01210 México DF <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"latitude": 19.367864,
+				"longitude": -99.262316,
+				"title": "Robert Bosch Alvaro Obregon"
 			},{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Robert Bosch - Queretaro.</h3>\r\n<p>Aerotech Industrial Park Querétaro, <br> Carretera Estatal 200 Querétaro- <br> Tequisquiapan, Km. 24+120 <br> C.P. 76295 Colón. Querétaro, Qro <br> Mexico </p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 20.622493,
@@ -6397,7 +6412,7 @@
 				"longitude": -103.34221649169922,
 				"title": "Bosch - Guadalajara "
 			}, {
-				"body": "\r\n\r\n\r\n\r\n<h3 >Bosch Mexico - Aguascalientes</h3>\r\n<p>Calle Cto Aguascalientes Nte 141, 20358 Valle de Aguascalientes, Ags., Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
+				"body": "\r\n\r\n\r\n\r\n<h3 >Bosch Mexico - Aguascalientes</h3>\r\n<p>Calle Cto Aguascalientes Norte 141, 20358 Valle de Aguascalientes, Ags., Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 21.883010864257812,
 				"longitude": -102.32100677490234,
 				"title": "Bosch Mexico - Aguascalientes"
