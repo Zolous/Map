@@ -1,8 +1,8 @@
 {
 	"A038": {
 		"Company": "Hella GmbH & Co. KGaA",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >HBPO North America, Inc.</h3>\r\n<p>700 Tower Drive, Troy MI 48098, USA</p>\r\n<p><a href=\"http://www.hbpogroup.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.hbpogroup.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.592899322509766,
@@ -60,8 +60,8 @@
 	},
 	"A039": {
 		"Company": "Hitachi Automotive Systems",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Hitachi Automotive Systems Americas, Inc. -Georgia Plant</h3>\r\n<p>1000 Unisia Drive, Monroe, Georgia 30655 U.S.A.</p>\r\n<p><a href=\"http://www.hitachi-automotive.us/Default.html\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.hitachi-automotive.us/Default.html</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 33.813777923583984,
@@ -671,8 +671,8 @@
 	},
 	"A100": {
 		"Company": "ZF Friedrichshafen AG",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >ZF Electronics de Mexico S. de R.L. de C.V.</h3>\r\n<p>Parque Industrial Intermex, Av. Valle de Los Cedros #1650, Juarez, Chihuahua 32690 Mexico</p>\r\n<p><a href=\"http://www.zf.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.zf.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 31.69036293029785,
@@ -952,8 +952,8 @@
 	},
 	"A026": {
 		"Company": "Eberspaecher Gruppe GmbH & Co. KG",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Espar Heater Systems</h3>\r\n<p>6099A Vipond Drive, Mississauga, Ontario, L5T 2B2, CANADA</p>\r\n<p><a href=\"http://www.espar.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.espar.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.65315628051758,
@@ -1011,8 +1011,8 @@
 	},
 	"A021": {
 		"Company": "Delphi Technologies*",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Specialty Electronics, Inc.</h3>\r\n<p>909 North Cleveland Street, Enid, OK 73703 USA</p>\r\n<p><a href=\"http://www.aptiv.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.aptiv.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 36.405555725097656,
@@ -1130,8 +1130,8 @@
 	},
 	"A020": {
 		"Company": "Dana Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Dana Sealing Products, LLC</h3>\r\n<p>100 Plumley Dr., Paris, TN 38242-8022, U.S.A.</p>\r\n<p><a href=\"http://www.dana.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.dana.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 36.310306549072266,
@@ -1189,8 +1189,8 @@
 	},
 	"A023": {
 		"Company": "Dow Automotive/Related Businesses",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Trelleborg Sealing Solutions Mexico SA de CV</h3>\r\n<p>Viena 22, Colonia Juarez, CP 06600, Cuauhtemoc, D.F., Mexico</p>\r\n<p><a href=\"http://www.tss.trelleborg.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.tss.trelleborg.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 19.429832458496094,
@@ -1293,8 +1293,8 @@
 	},
 	"A022": {
 		"Company": "Denso Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Denso Manufacturing Canada, Inc.</h3>\r\n<p>900 Southgate Drive, Guelph, Ontario, Canada, N1L 1K1 CANADA</p>\r\n<p><a href=\"http://www.densocorp-na.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.densocorp-na.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.48977279663086,
@@ -1437,8 +1437,8 @@
 	},
 	"A029": {
 		"Company": "Flex",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >DBM Reflex Enterprises, Inc.</h3>\r\n<p>1620 Dagenais Blvd. West, Laval Quebec, H7L 5C7 Canada</p>\r\n<p><a href=\"http://www.dbmreflex.qc.ca\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.dbmreflex.qc.ca</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 45.5935173034668,
@@ -1816,8 +1816,8 @@
 	},
 	"A028": {
 		"Company": "Federal-Mogul",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Forjas y Maquinas, S.A. de C.V.</h3>\r\n<p>Jesus Rivera Franco #402, Aguascalientes, Mexico, CP 20290, Mexico </p>\r\n<p><a href=\"http://www.federalmogul.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.federalmogul.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 21.842172622680664,
@@ -2487,8 +2487,8 @@
 	},
 	"A053": {
 		"Company": "Koito Manufacturing",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >North American Lighting, Inc.</h3>\r\n<p>2275 S. Main Street, Paris, IL 61944 USA</p>\r\n<p><a href=\"http://www.nal.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.nal.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 39.58304214477539,
@@ -2649,8 +2649,8 @@
 	},
 	"A056": {
 		"Company": "Linamar Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Linamar Corporation</h3>\r\n<p>287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, Canada</p>\r\n<p><a href=\"http://www.linamar.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.linamar.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.54570770263672,
@@ -2708,8 +2708,8 @@
 	},
 	"A057": {
 		"Company": "Magna International Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Magna International Inc.</h3>\r\n<p>337 Magna Drive, Aurora, Ontario, Canada L4G 7K1</p>\r\n<p><a href=\"http://www.magna.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.magna.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 44.004425048828125,
@@ -3011,8 +3011,8 @@
 	},
 	"A059": {
 		"Company": "Mahle GmbH",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >MAHLE Behr Service America L.L.C.</h3>\r\n<p>1600 Webster Street, Dayton, Ohio 45404 USA</p>\r\n<p><a href=\"http://www.behr-service.com/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.behr-service.com/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 39.78380584716797,
@@ -3120,8 +3120,8 @@
 	},
 	"A043": {
 		"Company": "Hyundai Powertech Co.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Powertech America Inc.</h3>\r\n<p>6801 Kia Parkway Westpoint, GA 31833, USA</p>\r\n<p><a href=\"http://www.powertech.co.kr/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.powertech.co.kr/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 32.91241455078125,
@@ -3144,8 +3144,8 @@
 	},
 	"A042": {
 		"Company": "Hyundai Mobis",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Hyundai Mobis Alabama, LLC.</h3>\r\n<p>1395 Mitchell Young Rd., Montgomery, AL 36108, USA</p>\r\n<p><a href=\"http://www.mobis.co.kr\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.mobis.co.kr</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 32.321598052978516,
@@ -3168,8 +3168,8 @@
 	},
 	"A040": {
 		"Company": "Hyundai Dymos Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Dymos Mexico S. de R.L. de C.V.</h3>\r\n<p>Av. Eje Tres 2827 Logistik Villa de Reyes San Luis Potosi 79526, Mexico</p>\r\n<p><a href=\"http://www.hyundai-dymos.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.hyundai-dymos.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 21.80584144592285,
@@ -3197,8 +3197,8 @@
 	},
 	"A047": {
 		"Company": "Inteva Products",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Automotive Mexico Body Systems S. de R.L. de C.V. </h3>\r\n<p>Autopista M\u00e9xico, Puebla, KM 117 Nave 19D, Parque Industrial Finsa ZC.76710, Puebla, M\u00e9xico</p>\r\n<p><a href=\"http://www.intevaproducts.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.intevaproducts.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 19.821393966674805,
@@ -3369,8 +3369,8 @@
 	},
 	"A044": {
 		"Company": "Hyundai-WIA Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Hyundai WIA - Pesqueria Plant</h3>\r\n<p>Pesqueria, Monterrey, Nuevo Leon, Mexico</p>\r\n<p><a href=\"http://www.hyundai-wia.co.kr\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.hyundai-wia.co.kr</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 25.488285064697266,
@@ -3393,8 +3393,8 @@
 	},
 	"A049": {
 		"Company": "Johnson Controls Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Adient - Clanton (Formerly CRH North America Inc.)</h3>\r\n<p>2541 7th Street South, Clanton, AL 35045, USA</p>\r\n<p><a href=\"http://www.adient.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.adient.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 32.866310119628906,
@@ -3574,8 +3574,8 @@
 	},
 	"A076": {
 		"Company": "Piston Group",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Piston Modules, LLC</h3>\r\n<p>4015 Michigan Avenue, Detroit, MI 48210 USA</p>\r\n<p><a href=\"http://www.pistongroup.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.pistongroup.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.33115768432617,
@@ -3677,8 +3677,8 @@
 	},
 	"A074": {
 		"Company": "Panasonic Automotive Systems Co.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Panasonic Electric Works Corporation of America</h3>\r\n<p>629 Central Avenue, New Providence, NJ 07974 USA</p>\r\n<p><a href=\"http://pewa.panasonic.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://pewa.panasonic.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 40.69850540161133,
@@ -3726,8 +3726,8 @@
 	},
 	"A075": {
 		"Company": "Pioneer Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Pioneer Automotive Technologies, Inc.</h3>\r\n<p>22630 Haggerty Road, Farmington Hills, MI 48335 USA</p>\r\n<p><a href=\"http://www.pioneerelectronics.com/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.pioneerelectronics.com/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.45439910888672,
@@ -3765,8 +3765,8 @@
 	},
 	"A072": {
 		"Company": "NTN Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >NTN Bearing Corp. of Canada Ltd.</h3>\r\n<p>305 Courtneypark Drive West, Mississauga,Ontario, L5W 1Y4, Canada</p>\r\n<p><a href=\"http://www.ntn.ca\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.ntn.ca</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.63072967529297,
@@ -3873,8 +3873,8 @@
 	},
 	"A070": {
 		"Company": "Novelis Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Novelis, Inc.</h3>\r\n<p>3560 Lenox Road, Suite 2000, Atlanta, GA 30326 USA </p>\r\n<p><a href=\"http://www.novelis.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.novelis.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 33.8511962890625,
@@ -3902,8 +3902,8 @@
 	},
 	"A071": {
 		"Company": "NSK",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Autoliv ASP, Inc. (Autoliv Americas)</h3>\r\n<p>1320 Pacific Drive, Auburn Hills, Michigan 48326-1569, USA</p>\r\n<p><a href=\"http://www.autoliv.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.autoliv.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.69426727294922,
@@ -3971,8 +3971,8 @@
 	},
 	"A018": {
 		"Company": "Continental AG",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Continental Automotive Mexicana S.A. de C.V.</h3>\r\n<p>Av. Ignacio Allende lote 20 Parque Industrial de Cuautla Ciudad Ayala Morelos. C.P. 62743 Mexico</p>\r\n<p><a href=\"https://www.continental-corporation.com/en\r\n\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>https://www.continental-corporation.com/en\r\n</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 18.804197311401367,
@@ -4154,8 +4154,8 @@
 	},
 	"A014": {
 		"Company": "Brose Fahrzeugteile GmbH",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Brose North America, Inc.</h3>\r\n<p>3933 Automation Avenue, Auburn Hills, MI 48326 USA</p>\r\n<p><a href=\"http://www.brose.com/ww/en/pub/home.htm\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.brose.com/ww/en/pub/home.htm</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.69999313354492,
@@ -4203,8 +4203,8 @@
 	},
 	"A015": {
 		"Company": "Calsonic Kansei Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Calsonic Kansei Mexicana, S.A. de C.V. - San Francisco Plant</h3>\r\n<p>Av. San Francisco de los Romo No 401, Parque Industrial San Francisco 2a Seccion, San Francisco de los Romo, AGS C.P. 20000, Mexico</p>\r\n<p><a href=\"http://www.calsonic.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.calsonic.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 22.046316146850586,
@@ -4296,8 +4296,8 @@
 	},
 	"A017": {
 		"Company": "CITIC Dicastal Co.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >CITIC Dicastal USA </h3>\r\n<p>Grand Rapids City, Greenville, MI, USA</p>\r\n<p><a href=\"http://www.dicastal.com/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.dicastal.com/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.20024490356445,
@@ -4315,8 +4315,8 @@
 	},
 	"A010": {
 		"Company": "BASF SE",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >BASF Corporation - Coatings RBU Michigan </h3>\r\n<p>26701 Telegraph Road, Southfield, MI 48034, USA</p>\r\n<p><a href=\"http://www.basf-coatings.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.basf-coatings.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.485389709472656,
@@ -4344,8 +4344,8 @@
 	},
 	"A011": {
 		"Company": "BHAP",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Inalfa Roof Systems Inc. - USA Headquarters</h3>\r\n<p>1370 Pacific Drive, Auburn Hills, Michigan 48326, USA</p>\r\n<p><a href=\"http://www.inalfa-roofsystems.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.inalfa-roofsystems.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.69413757324219,
@@ -4383,8 +4383,8 @@
 	},
 	"A012": {
 		"Company": "BorgWarner Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Remy Componentes, S. de R.L. de C.V. - Alternator & Motor Plant</h3>\r\n<p>Ave. Circuito Canada # 102, Parque Industrial Tres Naciones, San Luis Potosi, SLP 78395, Mexico</p>\r\n<p><a href=\"http://www.remyinc.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.remyinc.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 22.020347595214844,
@@ -4472,8 +4472,8 @@
 	},
 	"A013": {
 		"Company": "Bridgewater Interiors",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Bridgewater Interiors, LLC</h3>\r\n<p>4617 W Fort St., Detroit, MI 48209-3208, USA</p>\r\n<p><a href=\"http://www.bridgewater-interiors.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bridgewater-interiors.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.30992889404297,
@@ -4525,8 +4525,8 @@
 	},
 	"A095": {
 		"Company": "Visteon Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Hanon Systems Canada Inc.<br>(Formerly Halla Visteon Climate Control Canada Inc. )</h3>\r\n<p>360 University Ave. Belleville, ON K8N 5T6 CANADA</p>\r\n<p><a href=\"http://www.hanonsystems.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.hanonsystems.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 44.201290130615234,
@@ -4628,8 +4628,8 @@
 	},
 	"A090": {
 		"Company": "Tower International",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Tower Automotive - Auburn</h3>\r\n<p>801 West 15th Street, Auburn, IN 46706 USA</p>\r\n<p><a href=\"http://www.towerinternational.com/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.towerinternational.com/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 41.3610954284668,
@@ -4697,8 +4697,8 @@
 	},
 	"A091": {
 		"Company": "Toyoda Gosei Co.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Waterville TG, Inc.</h3>\r\n<p>10 Depot St. P.O. Box 4500 Waterville, Quebec J0B 3H0, Canada</p>\r\n<p><a href=\"http://www.watervilletg.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.watervilletg.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 45.276065826416016,
@@ -4801,8 +4801,8 @@
 	},
 	"A092": {
 		"Company": "Toyota Boshoku Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Toyota Boshoku Kentucky, LLC - Harrodsburg</h3>\r\n<p>1120 Industry Road, Harrodsburg, Kentucky 40330 USA</p>\r\n<p><a href=\"http://www.toyota-boshoku.co.jp\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.toyota-boshoku.co.jp</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 37.783206939697266,
@@ -4978,8 +4978,8 @@
 	},
 	"A099": {
 		"Company": "Yazaki Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Buenaventura Autopartes S.A. de C.V.</h3>\r\n<p>Calle Ventura Romero No.54 Buenaventura Chihuahua 34890, Mexico</p>\r\n<p><a href=\"http://www.yazaki-na.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.yazaki-na.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 29.845125198364258,
@@ -5052,8 +5052,8 @@
 	},
 	"A069": {
 		"Company": "NHK Spring Co.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >NHK Seating of America, Inc.</h3>\r\n<p>2298 West State Rd. 28 Frankfort, IN 46041-8772 USA</p>\r\n<p><a href=\"http://www.nhkseating.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.nhkseating.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 40.280433654785156,
@@ -5096,8 +5096,8 @@
 	},
 	"A068": {
 		"Company": "Nexteer Automotive",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Nexteer Automotive Group Ltd.</h3>\r\n<p>1272 Doris Road, Auburn Hills, MI 48326, USA</p>\r\n<p><a href=\"http://www.nexteer.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.nexteer.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.658119201660156,
@@ -5120,8 +5120,8 @@
 	},
 	"A061": {
 		"Company": "Mann+Hummel International GmbH",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >MANN+HUMMEL USA, INC. - Bloomfield Hills</h3>\r\n<p>2285 Franklin Road, Suite 200, Bloomfield Hills, MI 48302, USA</p>\r\n<p><a href=\"http://www.mann-hummel.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.mann-hummel.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.6059684753418,
@@ -5227,8 +5227,8 @@
 	},
 	"A062": {
 		"Company": "Martinrea International Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Martinrea International Inc.</h3>\r\n<p>3210 Langstaff Road, Vaughan, Ontario L4K 5B2, Canada</p>\r\n<p><a href=\"http://www.martinrea.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.martinrea.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.81210708618164,
@@ -5346,8 +5346,8 @@
 	},
 	"A065": {
 		"Company": "Mitsubishi Electric Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Mitsubishi Electric US, Inc. </h3>\r\n<p>5900-A Katella Avenue, Cypress, California 90630, USA</p>\r\n<p><a href=\"http://www.mitsubishielectric.com/semiconductors/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.mitsubishielectric.com/semiconductors/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 33.80208969116211,
@@ -5375,8 +5375,8 @@
 	},
 	"A064": {
 		"Company": "Mitsuba Corp.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >American Mitsuba Kentucky - AMB <br>(Formerly Mitsuba Bardstown, Inc.)</h3>\r\n<p>901 Withrow Court, Bardstown, Kentucky 40004, USA</p>\r\n<p><a href=\"http://www.americanmitsuba.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.americanmitsuba.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 37.83310317993164,
@@ -5463,8 +5463,8 @@
 	},
 	"A066": {
 		"Company": "Multimatic Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Multimatic, Inc.</h3>\r\n<p>8688 Woodbine Avenue Suite 200 Markham, Ontario L3R 8B9, Canada</p>\r\n<p><a href=\"http://www.multimatic.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.multimatic.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.85419845581055,
@@ -5620,8 +5620,8 @@
 	},
 	"A007": {
 		"Company": "Asahi Glass Co.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >AGC Automotive Americas Co.</h3>\r\n<p>2300 Litton Lane, Suite 100, Hebron, KY, 41048, USA</p>\r\n<p><a href=\"http://www.agc-group.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.agc-group.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 39.07819366455078,
@@ -5659,8 +5659,8 @@
 	},
 	"A006": {
 		"Company": "Aptiv*",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Specialty Electronics, Inc.</h3>\r\n<p>909 North Cleveland Street, Enid, OK 73703 USA</p>\r\n<p><a href=\"http://www.aptiv.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.aptiv.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 36.405555725097656,
@@ -5877,8 +5877,8 @@
 	},
 	"A004": {
 		"Company": "Alpine Electronics Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Alpine Electronics of Canada Inc.</h3>\r\n<p>777 Supertest Rd., Tronto, Ontario M3J2M9, Canada</p>\r\n<p><a href=\"http://www.alpine-usa.com/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.alpine-usa.com/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.7751350402832,
@@ -5906,8 +5906,8 @@
 	},
 	"A003": {
 		"Company": "Aisin Seiki Co.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Aisin Canada Inc.</h3>\r\n<p>180 Wright Boulevard, Stratford, ON, N4Z 1H3, Canada</p>\r\n<p><a href=\"http://www.aisin.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.aisin.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.35629653930664,
@@ -6124,8 +6124,8 @@
 	},
 	"A001": {
 		"Company": "AB SKF, Automotive & Aerospace",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >General Bearing Corporation</h3>\r\n<p> 44 High Street, West Nyack, NY 10994, USA</p>\r\n<p><a href=\"http://www.generalbearing.com/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.generalbearing.com/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 41.09256362915039,
@@ -6153,8 +6153,8 @@
 	},
 	"A087": {
 		"Company": "Thyssenkrupp AG",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >thyssenkrupp Presta de Mexico S.A. de C.V.</h3>\r\n<p>Calle Circuito Esteban de Antu\u00f1ano No. 1, Manzana 4, 74160 Huejotzingo, Puebla, Mexico</p>\r\n<p><a href=\"http://www.thyssenkrupp.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.thyssenkrupp.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 19.158945083618164,
@@ -6212,8 +6212,8 @@
 	},
 	"A086": {
 		"Company": "Tenneco Inc.",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Tenneco Inc.</h3>\r\n<p>500 North Field Drive, Lake Forest, IL 60045, USA</p>\r\n<p><a href=\"http://www.tenneco.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.tenneco.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 42.2486686706543,
@@ -6295,8 +6295,8 @@
 	},
 	"A084": {
 		"Company": "Sumitomo Electric Industries",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Engineered Sintered Components</h3>\r\n<p>250 Old Murdock Rd. Troutman, NC 28166, USA</p>\r\n<p><a href=\"http://www.engsin.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.engsin.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 35.71023178100586,
@@ -6394,8 +6394,8 @@
 	},
 	"A083": {
 		"Company": "Schaeffler AG",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Schaeffler Canada Inc. - Automotive</h3>\r\n<p>801 Ontario Street, Plant 1, Stratford,  ON N5A 6T2, Canada</p>\r\n<p><a href=\"http://www.schaeffler.us\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.schaeffler.us</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 43.362857818603516,
@@ -6458,8 +6458,8 @@
 	},
 	"A082": {
 		"Company": "Samvardhana Motherson Group",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Samvardhana Motherson Peguform Mexico S.A. de C.V.</h3>\r\n<p>Km. 117 Aut. M\u00e9xico-Puebla, Parque Industrial FINSA Nave 14, Cuautlancingo, Puebla - 72710, Mexico</p>\r\n<p><a href=\"http://www.smp-automotive.com\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.smp-automotive.com</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 19.143041610717773,
@@ -6516,8 +6516,8 @@
 	},
 	"A080": {
 		"Company": "Robert Bosch GmbH",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >Robert Bosch, S. de R.L. de C.V.</h3>\r\n<p>Robert Bosch - San Martín Obispo <br> Av. Tejocotes, Parque Industrial San <br> Martín Obispo <br> C.P. 54769 Cuautitlán Izcalli Edo. Méx <br> Mexico</p>\r\n<p><a href=\"http://www.bosch.com.mx\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.bosch.com.mx</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 19.608740,
@@ -6684,8 +6684,8 @@
 	},
 	"A088": {
 		"Company": "TI Fluid Systems",
-		"Corporate_Location_Lat": NULL ,
-		"Corporate_Location_Lon": NULL ,
+		"Corporate_Location_Lat": null ,
+		"Corporate_Location_Lon": null ,
 		"Locations": [{
 				"body": "\r\n\r\n\r\n\r\n<h3 >TI Automotive Ltd. - Ligonier (Formerly Millennium Industries Corp.)</h3>\r\n<p>925 N. Main St., Ligonier, IN 46767 USA</p>\r\n<p><a href=\"http://www.tiautomotive.com/\" target=\"_blank\"><span class=\"glyphicon glyphicon-new-window\"></span>http://www.tiautomotive.com/</a></p>\r\n<div class=\"text-center\">\r\n\t \r\n</div>",
 				"latitude": 41.4768180847168,
